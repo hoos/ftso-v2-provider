@@ -15,6 +15,12 @@ enum FeedCategory {
   FX = 2,
   Commodity = 3,
   Stock = 4,
+}m FeedCategory {
+  None = 0,
+  Crypto = 1,
+  FX = 2,
+  Commodity = 3,
+  Stock = 4,
 }
 
 // Tier 1 exchanges. Only these will be used as sources when loading feeds.json.
@@ -447,30 +453,9 @@ export class CcxtFeed implements BaseDataFeed {
   }
 
   private loadConfig() {
-    const rawConfig = process.env.NETWORK === "local-test" ? testFeeds : prodFeeds;
+    const config = process.env.NETWORK === "local-test" ? testFeeds : prodFeeds;
 
     try {
-      // Filter sources down to tier 1 exchanges only.
-      const config = [];
-      for (const cfg of rawConfig) {
-        const filteredSources = cfg.sources.filter(source => TIER1_EXCHANGES.has(source.exchange));
-        if (filteredSources.length === 0) {
-          this.logger.warn(
-            `Feed ${JSON.stringify(cfg.feed)} has no tier 1 sources (allowed: ${Array.from(
-              TIER1_EXCHANGES
-            ).join(", ")}), skipping.`
-          );
-          continue;
-        }
-
-        const updatedCfg: FeedConfig = {
-          ...cfg,
-          sources: filteredSources,
-        };
-
-        config.push(updatedCfg);
-      }
-
       if (config.find(feed => feedsEqual(feed.feed, usdtToUsdFeedId)) === undefined) {
         throw new Error("Must provide USDT feed sources, as it is used for USD conversion.");
       }
