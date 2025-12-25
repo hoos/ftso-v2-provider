@@ -14,6 +14,10 @@
         "symbol": "FLR/USD"
       },
       {
+        "exchange": "okx",
+        "symbol": "FLR/USDT"
+      },
+      {
         "exchange": "bybit",
         "symbol": "FLR/USDT"
       },
@@ -27,6 +31,10 @@
       },
       {
         "exchange": "kraken",
+        "symbol": "FLR/USD"
+      },
+      {
+        "exchange": "lbank",
         "symbol": "FLR/USD"
       },
       {
