@@ -70,10 +70,6 @@
         "symbol": "BTC/USD"
       },
       {
-        "exchange": "cryptocom",
-        "symbol": "BTC/USD"
-      },
-      {
         "exchange": "gate",
         "symbol": "BTC/USDT"
       },
@@ -86,7 +82,11 @@
         "symbol": "BTC/USDT"
       },
       {
-        "exchange": "okx",
+        "exchange": "bitget",
+        "symbol": "BTC/USDT"
+      },
+      {
+        "exchange": "bybit",
         "symbol": "BTC/USDT"
       }
     ]
@@ -122,6 +122,14 @@
         "symbol": "XRP/USDT"
       },
       {
+        "exchange": "upbit",
+        "symbol": "XRP/USDT"
+      },
+      {
+        "exchange": "bitget",
+        "symbol": "XRP/USDT"
+      },
+      {
         "exchange": "gate",
         "symbol": "XRP/USDT"
       }
@@ -142,19 +150,19 @@
         "symbol": "LTC/USDT"
       },
       {
-        "exchange": "gate",
-        "symbol": "LTC/USDT"
-      },
-      {
-        "exchange": "bitget",
-        "symbol": "LTC/USDT"
-      },
-      {
         "exchange": "coinbase",
         "symbol": "LTC/USD"
       },
       {
+        "exchange": "htx",
+        "symbol": "LTC/USDT"
+      },
+      {
         "exchange": "bybit",
+        "symbol": "LTC/USDT"
+      },
+      {
+        "exchange": "mexc",
         "symbol": "LTC/USDT"
       },
       {
@@ -194,6 +202,14 @@
         "symbol": "XLM/USDT"
       },
       {
+        "exchange": "bitmart",
+        "symbol": "XLM/USDT"
+      },
+      {
+        "exchange": "upbit",
+        "symbol": "XLM/USDT"
+      },
+      {
         "exchange": "htx",
         "symbol": "XLM/USDT"
       }
@@ -230,6 +246,18 @@
         "symbol": "DOGE/USDT"
       },
       {
+        "exchange": "upbit",
+        "symbol": "DOGE/USDT"
+      },
+      {
+        "exchange": "bitmart",
+        "symbol": "DOGE/USDT"
+      },
+      {
+        "exchange": "htx",
+        "symbol": "DOGE/USDT"
+      },
+      {
         "exchange": "bybit",
         "symbol": "DOGE/USDT"
       }
@@ -262,6 +290,10 @@
         "symbol": "ADA/USDT"
       },
       {
+        "exchange": "htx",
+        "symbol": "ADA/USDT"
+      },
+      {
         "exchange": "coinbase",
         "symbol": "ADA/USD"
       },
@@ -282,11 +314,15 @@
         "symbol": "ALGO/USD"
       },
       {
+        "exchange": "kraken",
+        "symbol": "ALGO/USD"
+      },
+      {
         "exchange": "mexc",
         "symbol": "ALGO/USDT"
       },
       {
-        "exchange": "gate",
+        "exchange": "htx",
         "symbol": "ALGO/USDT"
       },
       {
@@ -294,7 +330,7 @@
         "symbol": "ALGO/USDT"
       },
       {
-        "exchange": "bitget",
+        "exchange": "bitmart",
         "symbol": "ALGO/USDT"
       },
       {
@@ -318,8 +354,8 @@
         "symbol": "ETH/USDT"
       },
       {
-        "exchange": "coinbase",
-        "symbol": "ETH/USD"
+        "exchange": "bitmart",
+        "symbol": "ETH/USDT"
       },
       {
         "exchange": "gate",
@@ -331,6 +367,10 @@
       },
       {
         "exchange": "okx",
+        "symbol": "ETH/USDT"
+      },
+      {
+        "exchange": "bybit",
         "symbol": "ETH/USDT"
       },
       {
@@ -363,6 +403,14 @@
       },
       {
         "exchange": "bitget",
+        "symbol": "FIL/USDT"
+      },
+      {
+        "exchange": "bitmart",
+        "symbol": "FIL/USDT"
+      },
+      {
+        "exchange": "lbank",
         "symbol": "FIL/USDT"
       },
       {
@@ -426,6 +474,14 @@
         "symbol": "AVAX/USDT"
       },
       {
+        "exchange": "htx",
+        "symbol": "AVAX/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "AVAX/USDT"
+      },
+      {
         "exchange": "okx",
         "symbol": "AVAX/USDT"
       },
@@ -454,6 +510,10 @@
         "symbol": "BNB/USDT"
       },
       {
+        "exchange": "binance",
+        "symbol": "BNB/USDC"
+      },
+      {
         "exchange": "xt",
         "symbol": "BNB/USDT"
       },
@@ -463,6 +523,10 @@
       },
       {
         "exchange": "mexc",
+        "symbol": "BNB/USDT"
+      },
+      {
+        "exchange": "lbank",
         "symbol": "BNB/USDT"
       },
       {
@@ -486,15 +550,19 @@
         "symbol": "POL/USDT"
       },
       {
-        "exchange": "bitget",
-        "symbol": "POL/USDT"
-      },
-      {
         "exchange": "okx",
         "symbol": "POL/USDT"
       },
       {
         "exchange": "bybit",
+        "symbol": "POL/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "POL/USDT"
+      },
+      {
+        "exchange": "bitmart",
         "symbol": "POL/USDT"
       },
       {
@@ -534,6 +602,10 @@
         "symbol": "SOL/USDT"
       },
       {
+        "exchange": "lbank",
+        "symbol": "SOL/USDT"
+      },
+      {
         "exchange": "gate",
         "symbol": "SOL/USDT"
       }
@@ -550,15 +622,15 @@
         "symbol": "USDC/USDT"
       },
       {
+        "exchange": "binance",
+        "symbol": "USDC/USDT"
+      },
+      {
         "exchange": "bybit",
         "symbol": "USDC/USDT"
       },
       {
-        "exchange": "okx",
-        "symbol": "USDC/USDT"
-      },
-      {
-        "exchange": "kraken",
+        "exchange": "lbank",
         "symbol": "USDC/USDT"
       },
       {
@@ -618,6 +690,14 @@
         "symbol": "XDC/USDT"
       },
       {
+        "exchange": "bitget",
+        "symbol": "XDC/USDT"
+      },
+      {
+        "exchange": "htx",
+        "symbol": "XDC/USDT"
+      },
+      {
         "exchange": "kraken",
         "symbol": "XDC/USD"
       }
@@ -646,6 +726,14 @@
         "symbol": "TRX/USDT"
       },
       {
+        "exchange": "lbank",
+        "symbol": "TRX/USDT"
+      },
+      {
+        "exchange": "xt",
+        "symbol": "TRX/USDT"
+      },
+      {
         "exchange": "bitget",
         "symbol": "TRX/USDT"
       }
@@ -670,7 +758,7 @@
         "symbol": "LINK/USD"
       },
       {
-        "exchange": "okx",
+        "exchange": "bitmart",
         "symbol": "LINK/USDT"
       },
       {
@@ -726,7 +814,7 @@
         "symbol": "DOT/USDT"
       },
       {
-        "exchange": "bitget",
+        "exchange": "lbank",
         "symbol": "DOT/USDT"
       },
       {
@@ -738,7 +826,7 @@
         "symbol": "DOT/USDT"
       },
       {
-        "exchange": "okx",
+        "exchange": "bitmart",
         "symbol": "DOT/USDT"
       },
       {
@@ -778,6 +866,10 @@
         "symbol": "TON/USDT"
       },
       {
+        "exchange": "lbank",
+        "symbol": "TON/USDT"
+      },
+      {
         "exchange": "htx",
         "symbol": "TON/USDT"
       }
@@ -790,7 +882,7 @@
     },
     "sources": [
       {
-        "exchange": "gate",
+        "exchange": "bitmart",
         "symbol": "ICP/USDT"
       },
       {
@@ -811,6 +903,10 @@
       },
       {
         "exchange": "bybit",
+        "symbol": "ICP/USDT"
+      },
+      {
+        "exchange": "lbank",
         "symbol": "ICP/USDT"
       },
       {
