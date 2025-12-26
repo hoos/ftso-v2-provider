@@ -35,7 +35,7 @@
       },
       {
         "exchange": "lbank",
-        "symbol": "FLR/USD"
+        "symbol": "FLR/USDT"
       },
       {
         "exchange": "kucoin",
@@ -456,6 +456,18 @@
       {
         "exchange": "coinbase",
         "symbol": "ARB/USD"
+      },      
+      {
+        "exchange": "lbank",
+        "symbol": "ARB/USDT"
+      },
+      {
+        "exchange": "bitmart",
+        "symbol": "ARB/USDT"
+      },
+      {
+        "exchange": "bingx",
+        "symbol": "ARB/USDT"
       },
       {
         "exchange": "kucoin",
@@ -938,8 +950,8 @@
         "symbol": "SHIB/USDT"
       },
       {
-        "exchange": "coinbase",
-        "symbol": "SHIB/USD"
+        "exchange": "lbank",
+        "symbol": "SHIB/USDT"
       },
       {
         "exchange": "binance",
@@ -951,6 +963,10 @@
       },
       {
         "exchange": "htx",
+        "symbol": "SHIB/USDT"
+      },
+      {
+        "exchange": "bitmart",
         "symbol": "SHIB/USDT"
       },
       {
@@ -978,6 +994,10 @@
         "symbol": "DAI/USDT"
       },
       {
+        "exchange": "bitget",
+        "symbol": "USDS/USDT"
+      },
+      {
         "exchange": "okx",
         "symbol": "DAI/USDT"
       }
@@ -1002,7 +1022,15 @@
         "symbol": "BCH/USDT"
       },
       {
-        "exchange": "xt",
+        "exchange": "mexc",
+        "symbol": "BCH/USDT"
+      },
+      {
+        "exchange": "bitmart",
+        "symbol": "BCH/USDT"
+      },
+      {
+        "exchange": "lbank",
         "symbol": "BCH/USDT"
       },
       {
@@ -1042,6 +1070,14 @@
         "symbol": "NEAR/USDT"
       },
       {
+        "exchange": "htx",
+        "symbol": "NEAR/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "NEAR/USDT"
+      },
+      {
         "exchange": "coinbase",
         "symbol": "NEAR/USD"
       }
@@ -1058,11 +1094,19 @@
         "symbol": "LEO/USD"
       },
       {
+        "exchange": "bitfinex",
+        "symbol": "LEO/USDT"
+      },
+      {
         "exchange": "okx",
         "symbol": "LEO/USDT"
       },
       {
         "exchange": "gate",
+        "symbol": "LEO/USDT"
+      },
+      {
+        "exchange": "lbank",
         "symbol": "LEO/USDT"
       },
       {
@@ -1095,6 +1139,14 @@
       },
       {
         "exchange": "kucoin",
+        "symbol": "UNI/USDT"
+      },
+      {
+        "exchange": "mexc",
+        "symbol": "UNI/USDT"
+      },
+      {
+        "exchange": "xt",
         "symbol": "UNI/USDT"
       },
       {
@@ -1134,6 +1186,14 @@
         "symbol": "ETC/USD"
       },
       {
+        "exchange": "bitmart",
+        "symbol": "ETC/USD"
+      },
+      {
+        "exchange": "xt",
+        "symbol": "ETC/USDT"
+      },
+      {
         "exchange": "bybit",
         "symbol": "ETC/USDT"
       }
@@ -1150,11 +1210,11 @@
         "symbol": "WIF/USDT"
       },
       {
-        "exchange": "gate",
-        "symbol": "WIF/USDT"
+        "exchange": "coinbase",
+        "symbol": "WIF/USD"
       },
       {
-        "exchange": "coinbase",
+        "exchange": "kraken",
         "symbol": "WIF/USD"
       },
       {
@@ -1167,6 +1227,14 @@
       },
       {
         "exchange": "bybit",
+        "symbol": "WIF/USDT"
+      },
+      {
+        "exchange": "htx",
+        "symbol": "WIF/USDT"
+      },
+      {
+        "exchange": "lbank",
         "symbol": "WIF/USDT"
       },
       {
@@ -1191,6 +1259,14 @@
       },
       {
         "exchange": "htx",
+        "symbol": "BONK/USDT"
+      },
+      {
+        "exchange": "bitmart",
+        "symbol": "BONK/USDT"
+      },
+      {
+        "exchange": "bybit",
         "symbol": "BONK/USDT"
       },
       {
@@ -1223,6 +1299,10 @@
       },
       {
         "exchange": "mexc",
+        "symbol": "JUP/USDT"
+      },
+      {
+        "exchange": "bitmart",
         "symbol": "JUP/USDT"
       },
       {
@@ -1262,7 +1342,15 @@
         "symbol": "ETHFI/USD"
       },
       {
-        "exchange": "bitget",
+        "exchange": "xt",
+        "symbol": "ETHFI/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "ETHFI/USDT"
+      },
+      {
+        "exchange": "bitmart",
         "symbol": "ETHFI/USDT"
       }
     ]
@@ -1291,6 +1379,14 @@
       },
       {
         "exchange": "bybit",
+        "symbol": "ENA/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "ENA/USDT"
+      },
+      {
+        "exchange": "bitmart",
         "symbol": "ENA/USDT"
       },
       {
@@ -1326,6 +1422,18 @@
         "symbol": "PYTH/USDT"
       },
       {
+        "exchange": "bitmart",
+        "symbol": "PYTH/USDT"
+      },
+      {
+        "exchange": "whitebit",
+        "symbol": "PYTH/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "PYTH/USDT"
+      },
+      {
         "exchange": "coinbase",
         "symbol": "PYTH/USD"
       },
@@ -1354,7 +1462,11 @@
         "symbol": "HNT/USDT"
       },
       {
-        "exchange": "bitget",
+        "exchange": "bitmart",
+        "symbol": "HNT/USDT"
+      },
+      {
+        "exchange": "xt",
         "symbol": "HNT/USDT"
       },
       {
@@ -1398,6 +1510,14 @@
         "symbol": "SUI/USDT"
       },
       {
+        "exchange": "lbank",
+        "symbol": "SUI/USDT"
+      },
+      {
+        "exchange": "htx",
+        "symbol": "SUI/USDT"
+      },
+      {
         "exchange": "kucoin",
         "symbol": "SUI/USDT"
       }
@@ -1422,8 +1542,12 @@
         "symbol": "PEPE/USDT"
       },
       {
-        "exchange": "coinbase",
-        "symbol": "PEPE/USD"
+        "exchange": "lbank",
+        "symbol": "PEPE/USDT"
+      },
+      {
+        "exchange": "bitmart",
+        "symbol": "PEPE/USDT"
       },
       {
         "exchange": "bybit",
@@ -1431,6 +1555,10 @@
       },
       {
         "exchange": "kucoin",
+        "symbol": "PEPE/USDT"
+      },
+      {
+        "exchange": "whitebit",
         "symbol": "PEPE/USDT"
       },
       {
@@ -1470,7 +1598,7 @@
         "symbol": "QNT/USDT"
       },
       {
-        "exchange": "bybit",
+        "exchange": "bitmart",
         "symbol": "QNT/USDT"
       }
     ]
