@@ -1650,7 +1650,7 @@
         "symbol": "S/USDT"
       },
       {
-        "exchange": "gate",
+        "exchange": "xt",
         "symbol": "S/USDT"
       },
       {
@@ -1662,7 +1662,11 @@
         "symbol": "S/USDT"
       },
       {
-        "exchange": "bybit",
+        "exchange": "htx",
+        "symbol": "S/USDT"
+      },
+      {
+        "exchange": "lbank",
         "symbol": "S/USDT"
       },
       {
@@ -1702,6 +1706,10 @@
         "symbol": "ONDO/USDT"
       },
       {
+        "exchange": "htx",
+        "symbol": "ONDO/USDT"
+      },
+      {
         "exchange": "okx",
         "symbol": "ONDO/USDT"
       }
@@ -1731,6 +1739,14 @@
       },
       {
         "exchange": "bitget",
+        "symbol": "TAO/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "TAO/USDT"
+      },
+      {
+        "exchange": "bitmart",
         "symbol": "TAO/USDT"
       },
       {
@@ -1766,6 +1782,10 @@
         "symbol": "FET/USDT"
       },
       {
+        "exchange": "lbank",
+        "symbol": "FET/USDT"
+      },
+      {
         "exchange": "kucoin",
         "symbol": "FET/USDT"
       }
@@ -1794,6 +1814,14 @@
         "symbol": "RENDER/USDT"
       },
       {
+        "exchange": "bitmart",
+        "symbol": "RENDER/USDT"
+      },
+      {
+        "exchange": "htx",
+        "symbol": "RENDER/USDT"
+      },
+      {
         "exchange": "kraken",
         "symbol": "RENDER/USD"
       },
@@ -1818,15 +1846,11 @@
         "symbol": "NOT/USDT"
       },
       {
-        "exchange": "bitget",
+        "exchange": "bitmart",
         "symbol": "NOT/USDT"
       },
       {
-        "exchange": "okx",
-        "symbol": "NOT/USDT"
-      },
-      {
-        "exchange": "bybit",
+        "exchange": "whitebit",
         "symbol": "NOT/USDT"
       },
       {
@@ -1850,7 +1874,7 @@
         "symbol": "RUNE/USDT"
       },
       {
-        "exchange": "gate",
+        "exchange": "whitebit",
         "symbol": "RUNE/USDT"
       },
       {
@@ -1887,6 +1911,14 @@
       },
       {
         "exchange": "bybit",
+        "symbol": "TRUMP/USDT"
+      },
+      {
+        "exchange": "htx",
+        "symbol": "TRUMP/USDT"
+      },
+      {
+        "exchange": "bitmart",
         "symbol": "TRUMP/USDT"
       },
       {
@@ -1930,7 +1962,7 @@
         "symbol": "HBAR/USDT"
       },
       {
-        "exchange": "okx",
+        "exchange": "mexc",
         "symbol": "HBAR/USDT"
       },
       {
@@ -1939,6 +1971,10 @@
       },
       {
         "exchange": "bybit",
+        "symbol": "HBAR/USDT"
+      },
+      {
+        "exchange": "bitmart",
         "symbol": "HBAR/USDT"
       },
       {
@@ -1979,6 +2015,14 @@
       },
       {
         "exchange": "gate",
+        "symbol": "PENGU/USDT"
+      },
+      {
+        "exchange": "bitmart",
+        "symbol": "PENGU/USDT"
+      },
+      {
+        "exchange": "lbank",
         "symbol": "PENGU/USDT"
       },
       {
@@ -2042,6 +2086,14 @@
         "symbol": "APT/USDT"
       },
       {
+        "exchange": "bitmart",
+        "symbol": "APT/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "APT/USDT"
+      },
+      {
         "exchange": "coinbase",
         "symbol": "APT/USD"
       }
@@ -2058,16 +2110,20 @@
         "symbol": "PAXG/USDT"
       },
       {
-        "exchange": "xt",
-        "symbol": "PAXG/USDT"
-      },
-      {
         "exchange": "mexc",
         "symbol": "PAXG/USDT"
       },
       {
         "exchange": "kraken",
         "symbol": "PAXG/USD"
+      },
+      {
+        "exchange": "bitmart",
+        "symbol": "PAXG/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "PAXG/USDT"
       },
       {
         "exchange": "coinbase",
@@ -2106,6 +2162,18 @@
         "symbol": "BERA/USDT"
       },
       {
+        "exchange": "bitmart",
+        "symbol": "BERA/USDT"
+      },
+      {
+        "exchange": "whitebit",
+        "symbol": "BERA/USDT"
+      },
+      {
+        "exchange": "htx",
+        "symbol": "BERA/USDT"
+      },
+      {
         "exchange": "coinbase",
         "symbol": "BERA/USD"
       }
@@ -2130,7 +2198,7 @@
         "symbol": "OP/USDT"
       },
       {
-        "exchange": "gate",
+        "exchange": "xt",
         "symbol": "OP/USDT"
       },
       {
@@ -2139,6 +2207,14 @@
       },
       {
         "exchange": "bybit",
+        "symbol": "OP/USDT"
+      },
+      {
+        "exchange": "bitmart",
+        "symbol": "OP/USDT"
+      },
+      {
+        "exchange": "htx",
         "symbol": "OP/USDT"
       },
       {
@@ -2154,8 +2230,8 @@
     },
     "sources": [
       {
-        "exchange": "kraken",
-        "symbol": "PUMP/USD"
+        "exchange": "bitmart",
+        "symbol": "PUMP/USDT"
       },
       {
         "exchange": "binance",
@@ -2210,6 +2286,10 @@
         "symbol": "XPL/USDT"
       },
       {
+        "exchange": "bitmart",
+        "symbol": "XPL/USDT"
+      },
+      {
         "exchange": "kraken",
         "symbol": "XPL/USD"
       }
@@ -2230,11 +2310,23 @@
         "symbol": "MON/USDT"
       },
       {
+        "exchange": "mexc",
+        "symbol": "MON/USDT"
+      },
+      {
+        "exchange": "lbank",
+        "symbol": "MON/USDT"
+      },
+      {
         "exchange": "gate",
         "symbol": "MON/USDT"
       },
       {
         "exchange": "kucoin",
+        "symbol": "MON/USDT"
+      },
+      {
+        "exchange": "htx",
         "symbol": "MON/USDT"
       },
       {
