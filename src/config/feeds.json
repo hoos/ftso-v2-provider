@@ -22,24 +22,12 @@
         "symbol": "FLR/USDT"
       },
       {
-        "exchange": "bitmart",
-        "symbol": "FLR/USDT"
-      },
-      {
         "exchange": "mexc",
         "symbol": "FLR/USDT"
       },
       {
         "exchange": "kraken",
         "symbol": "FLR/USD"
-      },
-      {
-        "exchange": "lbank",
-        "symbol": "FLR/USDT"
-      },
-      {
-        "exchange": "kucoin",
-        "symbol": "FLR/USDT"
       }
     ]
   },
@@ -58,6 +46,10 @@
         "symbol": "SGB/USDT"
       },
       {
+        "exchange": "bitrue",
+        "symbol": "SGB/USDT"
+      },
+      {
         "exchange": "mexc",
         "symbol": "SGB/USDT"
       }
@@ -71,15 +63,15 @@
     "sources": [
       {
         "exchange": "binance",
+        "symbol": "BTC/USD1"
+      },
+      {
+        "exchange": "binance",
         "symbol": "BTC/USDT"
       },
       {
         "exchange": "coinbase",
         "symbol": "BTC/USD"
-      },
-      {
-        "exchange": "gate",
-        "symbol": "BTC/USDT"
       },
       {
         "exchange": "mexc",
@@ -90,11 +82,7 @@
         "symbol": "BTC/USDT"
       },
       {
-        "exchange": "bitget",
-        "symbol": "BTC/USDT"
-      },
-      {
-        "exchange": "bybit",
+        "exchange": "bitmart",
         "symbol": "BTC/USDT"
       }
     ]
@@ -110,10 +98,6 @@
         "symbol": "XRP/USDT"
       },
       {
-        "exchange": "cryptocom",
-        "symbol": "XRP/USDT"
-      },
-      {
         "exchange": "coinbase",
         "symbol": "XRP/USD"
       },
@@ -122,19 +106,11 @@
         "symbol": "XRP/USD"
       },
       {
-        "exchange": "bitget",
+        "exchange": "bybit",
         "symbol": "XRP/USDT"
       },
       {
         "exchange": "okx",
-        "symbol": "XRP/USDT"
-      },
-      {
-        "exchange": "upbit",
-        "symbol": "XRP/USDT"
-      },
-      {
-        "exchange": "bitget",
         "symbol": "XRP/USDT"
       },
       {
@@ -578,15 +554,7 @@
         "symbol": "POL/USDT"
       },
       {
-        "exchange": "lbank",
-        "symbol": "POL/USDT"
-      },
-      {
         "exchange": "bitmart",
-        "symbol": "POL/USDT"
-      },
-      {
-        "exchange": "htx",
         "symbol": "POL/USDT"
       }
     ]
@@ -1054,11 +1022,7 @@
         "symbol": "NEAR/USDT"
       },
       {
-        "exchange": "bitget",
-        "symbol": "NEAR/USDT"
-      },
-      {
-        "exchange": "okx",
+        "exchange": "whitebit",
         "symbol": "NEAR/USDT"
       },
       {
@@ -1071,10 +1035,6 @@
       },
       {
         "exchange": "htx",
-        "symbol": "NEAR/USDT"
-      },
-      {
-        "exchange": "lbank",
         "symbol": "NEAR/USDT"
       },
       {
@@ -1162,7 +1122,7 @@
     },
     "sources": [
       {
-        "exchange": "bitget",
+        "exchange": "binance",
         "symbol": "ETC/USDT"
       },
       {
@@ -1182,19 +1142,7 @@
         "symbol": "ETC/USDT"
       },
       {
-        "exchange": "coinbase",
-        "symbol": "ETC/USD"
-      },
-      {
         "exchange": "bitmart",
-        "symbol": "ETC/USDT"
-      },
-      {
-        "exchange": "xt",
-        "symbol": "ETC/USDT"
-      },
-      {
-        "exchange": "bybit",
         "symbol": "ETC/USDT"
       }
     ]
@@ -1286,11 +1234,7 @@
         "symbol": "JUP/USDT"
       },
       {
-        "exchange": "gate",
-        "symbol": "JUP/USDT"
-      },
-      {
-        "exchange": "okx",
+        "exchange": "whitebit",
         "symbol": "JUP/USDT"
       },
       {
@@ -1307,10 +1251,6 @@
       },
       {
         "exchange": "kucoin",
-        "symbol": "JUP/USDT"
-      },
-      {
-        "exchange": "bitget",
         "symbol": "JUP/USDT"
       }
     ]
@@ -2074,6 +2014,10 @@
         "symbol": "APT/USDT"
       },
       {
+        "exchange": "binance",
+        "symbol": "APT/USDC"
+      },
+      {
         "exchange": "okx",
         "symbol": "APT/USDT"
       },
@@ -2083,14 +2027,6 @@
       },
       {
         "exchange": "bybit",
-        "symbol": "APT/USDT"
-      },
-      {
-        "exchange": "bitmart",
-        "symbol": "APT/USDT"
-      },
-      {
-        "exchange": "lbank",
         "symbol": "APT/USDT"
       },
       {
@@ -2186,10 +2122,6 @@
     },
     "sources": [
       {
-        "exchange": "bitget",
-        "symbol": "OP/USDT"
-      },
-      {
         "exchange": "binance",
         "symbol": "OP/USDT"
       },
@@ -2198,16 +2130,8 @@
         "symbol": "OP/USDT"
       },
       {
-        "exchange": "xt",
-        "symbol": "OP/USDT"
-      },
-      {
         "exchange": "coinbase",
         "symbol": "OP/USD"
-      },
-      {
-        "exchange": "bybit",
-        "symbol": "OP/USDT"
       },
       {
         "exchange": "bitmart",
