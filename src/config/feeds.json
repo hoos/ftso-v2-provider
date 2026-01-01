@@ -620,10 +620,6 @@
       {
         "exchange": "lbank",
         "symbol": "USDC/USDT"
-      },
-      {
-        "exchange": "bitget",
-        "symbol": "USDC/USDT"
       }
     ]
   },
@@ -634,15 +630,11 @@
     },
     "sources": [
       {
-        "exchange": "bitstamp",
+        "exchange": "binance",
         "symbol": "USDT/USD"
       },
       {
         "exchange": "coinbase",
-        "symbol": "USDT/USD"
-      },
-      {
-        "exchange": "cryptocom",
         "symbol": "USDT/USD"
       },
       {
@@ -950,24 +942,12 @@
     },
     "sources": [
       {
-        "exchange": "mexc",
-        "symbol": "DAI/USDT"
-      },
-      {
-        "exchange": "htx",
-        "symbol": "DAI/USDT"
-      },
-      {
-        "exchange": "bybit",
-        "symbol": "DAI/USDT"
+        "exchange": "coinbase",
+        "symbol": "USDS/USD"
       },
       {
         "exchange": "bitget",
         "symbol": "USDS/USDT"
-      },
-      {
-        "exchange": "okx",
-        "symbol": "DAI/USDT"
       }
     ]
   },
