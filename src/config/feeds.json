@@ -946,6 +946,10 @@
         "symbol": "USDS/USD"
       },
       {
+        "exchange": "kraken",
+        "symbol": "USDS/USD"
+      },
+      {
         "exchange": "bitget",
         "symbol": "USDS/USDT"
       }
