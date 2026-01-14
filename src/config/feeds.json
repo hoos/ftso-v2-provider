@@ -2241,7 +2241,8 @@
         "exchange": "bitget",
         "symbol": "MON/USDT"
       }
-    ],
+    ]
+  },
   {
     "feed": {
       "category": 1,
