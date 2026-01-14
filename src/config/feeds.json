@@ -2241,6 +2241,37 @@
         "exchange": "bitget",
         "symbol": "MON/USDT"
       }
+    ],
+  {
+    "feed": {
+      "category": 1,
+      "name": "NIGHT/USD"
+    },
+    "sources": [
+      {
+        "exchange": "bybit",
+        "symbol": "NIGHT/USDT"
+      },
+      {
+        "exchange": "gate",
+        "symbol": "NIGHT/USDT"
+      },
+      {
+        "exchange": "okx",
+        "symbol": "NIGHT/USDT"
+      },
+      {
+        "exchange": "htx",
+        "symbol": "NIGHT/USDT"
+      },
+      {
+        "exchange": "mexc",
+        "symbol": "NIGHT/USDT"
+      },
+      {
+        "exchange": "kraken",
+        "symbol": "NIGHT/USD"
+      }
     ]
   }
 ]
